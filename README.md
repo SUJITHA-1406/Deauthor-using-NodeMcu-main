@@ -52,11 +52,7 @@ Nearby devices detect these signals and display duplicate WiFi networks.
 
 ## Educational Purpose
 
-This project is created for educational and research purposes only.
-
-## Author
-
-SRIRAM KANNAN 
+This project is created for educational and research purposes only. 
 
 
 ## License
