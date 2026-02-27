@@ -54,7 +54,6 @@ Nearby devices detect these signals and display duplicate WiFi networks.
 
 This project is created for educational and research purposes only. 
 
-
 ## License
 
 MIT License
